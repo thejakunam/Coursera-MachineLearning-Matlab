@@ -1,1 +1,1 @@
-# Coursera-MachineLearning-Octave
+# Coursera-MachineLearning-Matlab
